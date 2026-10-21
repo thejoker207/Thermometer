@@ -57,6 +57,7 @@ void app_main (void)
 }
 #if 0
 
+//kommentar
     /* Print chip information */
     esp_chip_info_t chip_info;
     uint32_t flash_size;
