@@ -39,6 +39,7 @@ void app_main (void)
 
     adc_cali_create_scheme_line_fitting(&KalibrationsKonfiguration, &cal_h);
     
+    //test
 
 
     while(1)
